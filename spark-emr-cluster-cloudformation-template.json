@@ -59,7 +59,7 @@
 			"Market": "ON_DEMAND",
             "Name": "Core"
           },
-          "Ec2KeyName": "kranti",
+          "Ec2KeyName": "FRBKey",
           "MasterInstanceGroup": {
             "InstanceCount": 1,
             "InstanceType": "m1.medium",
