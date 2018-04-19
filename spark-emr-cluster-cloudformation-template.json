@@ -59,7 +59,7 @@
 			"Market": "ON_DEMAND",
             "Name": "Core"
           },
-          "Ec2KeyName": "fsiwest",
+          "Ec2KeyName": "FSIWest",
           "MasterInstanceGroup": {
             "InstanceCount": 1,
             "InstanceType": "m1.medium",
